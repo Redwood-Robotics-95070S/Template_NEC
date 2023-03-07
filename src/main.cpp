@@ -11,7 +11,7 @@
 // Robot Configuration:
 // [Name]               [Type]        [Port(s)]
 // Controller1          controller                    
-// GPS5                 gps           5               
+// GPS11                gps           11              
 // fl                   motor         1               
 // fr                   motor         7               
 // bl                   motor         10              

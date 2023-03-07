@@ -9,7 +9,7 @@ brain  Brain;
 
 // VEXcode device constructors
 controller Controller1 = controller(primary);
-gps GPS5 = gps(PORT5, 0.00, 0.00, mm, 180);
+gps GPS11 = gps(PORT11, 0.00, 0.00, mm, 180);
 motor fl = motor(PORT1, ratio18_1, false);
 motor fr = motor(PORT7, ratio18_1, true);
 motor bl = motor(PORT10, ratio18_1, false);

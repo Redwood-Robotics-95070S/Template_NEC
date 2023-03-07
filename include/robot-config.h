@@ -4,7 +4,7 @@ extern brain Brain;
 
 // VEXcode devices
 extern controller Controller1;
-extern gps GPS5;
+extern gps GPS11;
 extern motor fl;
 extern motor fr;
 extern motor bl;
