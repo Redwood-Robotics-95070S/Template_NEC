@@ -10,6 +10,20 @@ void setcoast() {
   br.setStopping(coast);
 }
 
+void sethold() {
+  fl.setStopping(hold);
+  fr.setStopping(hold);
+  bl.setStopping(hold);
+  br.setStopping(hold);
+}
+
+void setbrake() {
+  fl.setStopping(brake);
+  fr.setStopping(brake);
+  bl.setStopping(brake);
+  br.setStopping(brake);
+}
+
 //set drivetrain velocity pct value
 void setv(double pctamt) {
   fl.setVelocity(pctamt,percent);
