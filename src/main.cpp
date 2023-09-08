@@ -2,52 +2,13 @@
 // Robot Configuration:
 // [Name]               [Type]        [Port(s)]
 // Controller1          controller                    
-// GPS11                gps           11              
+// GPST                 gps           11              
 // fl                   motor         1               
 // fr                   motor         7               
 // bl                   motor         10              
 // br                   motor         3               
 // ---- END VEXCODE CONFIGURED DEVICES ----
-// ---- START VEXCODE CONFIGURED DEVICES ----
-// Robot Configuration:
-// [Name]               [Type]        [Port(s)]
-// Controller1          controller                    
-// GPS11                gps           11              
-// fl                   motor         1               
-// fr                   motor         7               
-// bl                   motor         10              
-// br                   motor         3               
-// EncoderA             encoder       A, B            
-// ---- END VEXCODE CONFIGURED DEVICES ----
-// ---- START VEXCODE CONFIGURED DEVICES ----
-// Robot Configuration:
-// [Name]               [Type]        [Port(s)]
-// Controller1          controller                    
-// GPS11                gps           11              
-// fl                   motor         1               
-// fr                   motor         7               
-// bl                   motor         10              
-// br                   motor         3               
-// ---- END VEXCODE CONFIGURED DEVICES ----
-/*----------------------------------------------------------------------------*/
-/*                                                                            */
-/*    Module:       main.cpp                                                  */
-/*    Author:       VEX                                                       */
-/*    Created:      Thu Sep 26 2019                                           */
-/*    Description:  Competition Template                                      */
-/*                                                                            */
-/*----------------------------------------------------------------------------*/
 
-// ---- START VEXCODE CONFIGURED DEVICES ----
-// Robot Configuration:
-// [Name]               [Type]        [Port(s)]
-// Controller1          controller                    
-// GPS11                gps           11              
-// fl                   motor         1               
-// fr                   motor         7               
-// bl                   motor         10              
-// br                   motor         3               
-// ---- END VEXCODE CONFIGURED DEVICES ----
 
 #include "vex.h"
 #include "autonfunctions.h"
